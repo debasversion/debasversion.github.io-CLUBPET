@@ -1,0 +1,56 @@
+.button2 {
+    display: inline-block;
+    background-color: #ff9900;
+    color: white;
+    text-decoration: none; 
+    padding: 10px 20px;
+    border-radius: 50px;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+}
+
+.button2:hover {
+    background-color: #cc7700; 
+}
+
+.button3 {
+    display: inline-block;
+    background-color: #ff9900;
+    color: white;
+    text-decoration: none; 
+    padding: 10px 20px;
+    border-radius: 50px;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+}
+
+.button3:hover {
+    background-color: #cc7700; 
+}
+
+
+.quadrado {
+    width: 700px; 
+    height: 800px; 
+    background-color: #ffd89b; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #5A3E36; 
+    font-size: 13.5px;
+    font-family: 'Poppins', sans-serif;;
+    border-radius: 60px; 
+    
+}
+
+body{
+    background-color: #88d1ca; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+
+}

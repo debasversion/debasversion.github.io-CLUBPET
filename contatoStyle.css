@@ -1,0 +1,99 @@
+
+body {
+    background-color: #88d1ca; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: 'Poppins', sans-serif;;
+}
+
+
+.container {
+    background-color: rgb(199, 131, 35); 
+    color: #ffffff;
+    padding: 30px;
+    border-radius: 60px;
+    text-align: center;
+    width: 400px;
+}
+
+h2 {
+    margin-bottom: 15px;
+}
+
+
+.contato-info p {
+    font-size: 16px;
+    margin: 8px 0;
+}
+
+.contato-info i {
+    margin-right: 8px;
+    color: #ffffff; 
+}
+
+
+.redes-sociais {
+    margin: 15px 0;
+}
+
+.redes-sociais a {
+    color: white;
+    font-size: 24px;
+    margin: 0 10px;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+.redes-sociais a:hover {
+    color: #ff9900;
+}
+
+
+.formulario {
+    display: flex;
+    flex-direction: column;
+}
+
+.formulario input, .formulario textarea {
+    width: 100%;
+    padding: 10px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 5px;
+}
+
+
+.button2 {
+    display: inline-block;
+    background-color: #ff9900;
+    color: white;
+    text-decoration: none; 
+    padding: 10px 20px;
+    border-radius: 50px;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+}
+
+.button2:hover {
+    background-color: #cc7700; 
+}
+
+.button3 {
+    display: inline-block;
+    background-color: #ff9900;
+    color: white;
+    text-decoration: none; 
+    padding: 10px 20px;
+    border-radius: 50px;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+}
+
+.button3:hover {
+    background-color: #cc7700; 
+}
